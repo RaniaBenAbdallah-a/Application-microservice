@@ -53,7 +53,7 @@ Pour exposer ces services et mettre en place une véritable architecture de micr
 
 ---
 
-## **microservice-ui** (Frontend)
+## **mservice-ui** (Frontend)
 - **Langage** : Angular
 
 
