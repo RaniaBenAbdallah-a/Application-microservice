@@ -33,6 +33,10 @@ Voici une représentation de l'architecture de l’application:
 
 ![Architecture de l'Application](readme-images/architecture.png)
 
+Cette architecture démontre l’intégration de plusieurs services indépendants
+qui communiquent entre eux grâce à Istio, offrant ainsi une gestion centralisée du
+trafic et une observabilité poussée des interactions.
+
 
 
 
