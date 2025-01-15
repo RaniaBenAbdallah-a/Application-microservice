@@ -1,4 +1,4 @@
-package com.hnj.apigateway.config;
+package com.rania.apigateway.config;
 
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;

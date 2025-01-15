@@ -1,8 +1,8 @@
-package com.hnj.product.controller;
+package com.rania.product.controller;
 
-import com.hnj.product.model.Product;
-import com.hnj.product.model.request.ProductRequest;
-import com.hnj.product.service.ProductService;
+import com.rania.product.model.Product;
+import com.rania.product.model.request.ProductRequest;
+import com.rania.product.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

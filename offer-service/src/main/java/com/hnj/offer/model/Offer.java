@@ -1,4 +1,4 @@
-package com.hnj.offer.model;
+package com.rania.offer.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

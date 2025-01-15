@@ -1,4 +1,4 @@
-//package com.hnj.serviceregistry;
+//package com.rania.serviceregistry;
 //
 //import org.junit.Test;
 //import org.junit.runner.RunWith;

@@ -1,11 +1,11 @@
-package com.hnj.offer.service.impl;
+package com.rania.offer.service.impl;
 
-import com.hnj.offer.event.EventDispatcher;
-import com.hnj.offer.event.ProductOfferEvent;
-import com.hnj.offer.model.Offer;
-import com.hnj.offer.model.request.OfferRequest;
-import com.hnj.offer.repository.OfferRepository;
-import com.hnj.offer.service.OfferService;
+import com.rania.offer.event.EventDispatcher;
+import com.rania.offer.event.ProductOfferEvent;
+import com.rania.offer.model.Offer;
+import com.rania.offer.model.request.OfferRequest;
+import com.rania.offer.repository.OfferRepository;
+import com.rania.offer.service.OfferService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

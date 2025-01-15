@@ -1,9 +1,9 @@
-package com.hnj.product.service.impl;
+package com.rania.product.service.impl;
 
-import com.hnj.product.model.Product;
-import com.hnj.product.model.request.ProductRequest;
-import com.hnj.product.repository.ProductRepository;
-import com.hnj.product.service.ProductService;
+import com.rania.product.model.Product;
+import com.rania.product.model.request.ProductRequest;
+import com.rania.product.repository.ProductRepository;
+import com.rania.product.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

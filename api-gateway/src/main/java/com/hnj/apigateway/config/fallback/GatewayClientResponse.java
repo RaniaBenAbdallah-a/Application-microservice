@@ -1,4 +1,4 @@
-package com.hnj.apigateway.config.fallback;
+package com.rania.apigateway.config.fallback;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

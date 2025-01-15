@@ -1,4 +1,4 @@
-package com.hnj.product.configuration;
+package com.rania.product.configuration;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

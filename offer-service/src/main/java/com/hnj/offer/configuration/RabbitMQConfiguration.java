@@ -1,4 +1,4 @@
-package com.hnj.offer.configuration;
+package com.rania.offer.configuration;
 
 import org.springframework.amqp.core.TopicExchange;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;

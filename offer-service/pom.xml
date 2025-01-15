@@ -8,7 +8,7 @@
         <version>2.1.0.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.hnj.offer</groupId>
+    <groupId>com.rania.offer</groupId>
     <artifactId>offer-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>offer-service</name>

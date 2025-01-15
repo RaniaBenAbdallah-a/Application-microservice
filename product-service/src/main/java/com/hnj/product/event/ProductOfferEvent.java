@@ -1,4 +1,4 @@
-package com.hnj.product.event;
+package com.rania.product.event;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

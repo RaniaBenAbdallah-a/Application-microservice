@@ -1,6 +1,6 @@
-package com.hnj.apigateway.config;
+package com.rania.apigateway.config;
 
-import com.hnj.apigateway.config.fallback.GatewayClientResponse;
+import com.rania.apigateway.config.fallback.GatewayClientResponse;
 import com.netflix.hystrix.exception.HystrixTimeoutException;
 import org.springframework.cloud.netflix.zuul.filters.route.FallbackProvider;
 import org.springframework.http.HttpStatus;

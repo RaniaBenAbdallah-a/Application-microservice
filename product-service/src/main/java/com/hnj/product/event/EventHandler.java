@@ -1,6 +1,6 @@
-package com.hnj.product.event;
+package com.rania.product.event;
 
-import com.hnj.product.service.ProductService;
+import com.rania.product.service.ProductService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.AmqpRejectAndDontRequeueException;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

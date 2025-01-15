@@ -1,4 +1,4 @@
-package com.hnj.product.configuration;
+package com.rania.product.configuration;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;

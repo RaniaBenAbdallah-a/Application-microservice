@@ -1,4 +1,4 @@
-package com.hnj.offer.event;
+package com.rania.offer.event;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -8,7 +8,7 @@ import lombok.ToString;
 import java.io.Serializable;
 
 /**
- * Event that models the fact that a {@link com.hnj.offer.event.MultiplicationSolvedEvent}
+ * Event that models the fact that a {@link com.rania.offer.event.MultiplicationSolvedEvent}
  * has been solved in the system. Provides some context information about the multiplication.
  */
 @RequiredArgsConstructor

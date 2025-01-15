@@ -1,4 +1,4 @@
-package com.hnj.apigateway.config;
+package com.rania.apigateway.config;
 
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.IPing;

@@ -1,7 +1,7 @@
-package com.hnj.offer.service;
+package com.rania.offer.service;
 
-import com.hnj.offer.model.Offer;
-import com.hnj.offer.model.request.OfferRequest;
+import com.rania.offer.model.Offer;
+import com.rania.offer.model.request.OfferRequest;
 
 import java.util.List;
 

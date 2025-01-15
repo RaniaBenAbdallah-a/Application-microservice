@@ -1,4 +1,4 @@
-package com.hnj.offer.event;
+package com.rania.offer.event;
 
 import lombok.*;
 

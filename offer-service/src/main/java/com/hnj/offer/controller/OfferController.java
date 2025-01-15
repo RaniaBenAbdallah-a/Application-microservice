@@ -1,8 +1,8 @@
-package com.hnj.offer.controller;
+package com.rania.offer.controller;
 
-import com.hnj.offer.model.Offer;
-import com.hnj.offer.model.request.OfferRequest;
-import com.hnj.offer.service.OfferService;
+import com.rania.offer.model.Offer;
+import com.rania.offer.model.request.OfferRequest;
+import com.rania.offer.service.OfferService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

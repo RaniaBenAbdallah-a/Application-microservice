@@ -1,4 +1,4 @@
-package com.hnj.product.model.request;
+package com.rania.product.model.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

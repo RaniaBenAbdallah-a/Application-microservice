@@ -1,4 +1,4 @@
-package com.hnj.offer.event;
+package com.rania.offer.event;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

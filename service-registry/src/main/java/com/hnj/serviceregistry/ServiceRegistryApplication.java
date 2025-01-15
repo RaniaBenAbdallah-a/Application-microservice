@@ -1,4 +1,4 @@
-package com.hnj.serviceregistry;
+package com.rania.serviceregistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

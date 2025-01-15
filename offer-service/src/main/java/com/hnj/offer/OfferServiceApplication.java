@@ -1,4 +1,4 @@
-package com.hnj.offer;
+package com.rania.offer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

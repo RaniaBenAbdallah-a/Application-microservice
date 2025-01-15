@@ -1,7 +1,7 @@
-package com.hnj.product.service;
+package com.rania.product.service;
 
-import com.hnj.product.model.Product;
-import com.hnj.product.model.request.ProductRequest;
+import com.rania.product.model.Product;
+import com.rania.product.model.request.ProductRequest;
 
 import java.util.List;
 import java.util.Optional;

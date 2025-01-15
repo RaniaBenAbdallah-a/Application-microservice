@@ -1,6 +1,6 @@
-package com.hnj.offer.repository;
+package com.rania.offer.repository;
 
-import com.hnj.offer.model.Offer;
+import com.rania.offer.model.Offer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
