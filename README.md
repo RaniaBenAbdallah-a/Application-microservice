@@ -61,7 +61,7 @@ Pour exposer ces services et mettre en place une véritable architecture de micr
 
 Voici une représentation de l'architecture de l’application:  
 
-![Architecture de l'Application](readme-images/architecture.png)
+![Architecture de l'Application](readme-images/Architecture_App.png)
 
 Cette architecture démontre l’intégration de plusieurs services indépendants
 qui communiquent entre eux grâce à Istio, offrant ainsi une gestion centralisée du
