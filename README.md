@@ -26,6 +26,36 @@ Ces deux services sont déployables et évolutifs de manière indépendante. Ils
 Pour exposer ces services et mettre en place une véritable architecture de microservices, deux autres services ont été intégrés :  
 - **service-registry** : utilisé pour la découverte des services.  
 - **api-gateway** : utilisé pour le routage dynamique des services ainsi que pour l'équilibrage de charge.
+- 
+## Architecture des Services
+
+## **Service Client (Customer Service)**
+- **Langage** : TypeScript / Node.js
+- **Base de données** : MongoDB
+
+---
+
+## **Service Produit (Product Service)**
+- **Langage** : Java
+- **Base de données** : MySQL
+
+---
+
+## **Service Inscription (Register Service)**
+- **Langage** : Python
+- **Base de données** : PostgreSQL
+
+---
+
+## **Service Offres (Offer Service)**
+- **Langage** : C
+- **Base de données** : MongoDB
+
+---
+
+## **microservice-ui** (Frontend)
+- **Langage** : Angular
+
 
 ## Architecture de l’Application
 
